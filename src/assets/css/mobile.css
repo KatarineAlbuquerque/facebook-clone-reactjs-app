@@ -1,0 +1,84 @@
+@media(max-width: 1100px) {
+    #content {
+        flex-wrap: wrap;
+    }
+    #nav-02, #nav-03, #posts {
+        width: 100%;
+        height: auto;
+    }
+    .nav-01-menu {
+        display: none;
+    }
+    #content {
+        position: relative;
+    }
+    #post-pensando, #post-sala {
+        width: 80%;
+    }
+    #post-data {
+        width: 85%;
+    }
+    #post-pensando #actions {
+        justify-content: space-around;
+    }
+    #post-pensando #actions .action p {
+        display: none;
+    }
+    #nav-02 {
+        order: 2;
+        padding: 10% 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-top: 3px solid #FFF;
+        border-bottom: 3px solid #FFF;
+    }
+    #nav-03 {
+        order: 3;
+        padding: 10% 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    } 
+    #posts {
+        order: 1;
+    }
+    #nav-01 {
+        height: auto;
+        padding: 3% 0;
+        justify-content: center;
+        line-height: 3em;
+    }   
+    #post-list {
+        width: 90%;        
+        margin: 0 auto;        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        overflow-x: auto;
+    }
+    #post-list::-webkit-scrollbar {
+        width: 0;
+        height: 0;
+    }
+    #post-list #list {
+        width: 100%;
+        display: flex;        
+    }
+    #post-list div {
+        width: 600px;
+        margin: 0 auto;          
+    }
+
+    #post-list .posts {
+        width: 120px;
+    }   
+    #post-sala #salas button {
+        flex-direction: column;
+        border-radius: 0;
+        border: 0 none;
+    }  
+}
