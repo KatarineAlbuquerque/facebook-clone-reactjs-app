@@ -8,7 +8,7 @@
 <p>Front-end em React Js com uso de componetes reutilizáveis e layout flexível. O projeto está organizado em pastas para facilitar a manutenção do site.</p>
 
 <h2>II. Layout do Projeto</h2>
-<hr/>
+
 <img src="./images/img.png"  alt="Layout do Projeto" width="100%"/>
 
 
@@ -18,7 +18,7 @@
 
 <h2>IV. Autor</h2>
 <h4>Katarine Albuquerque</h4>
-<hr/>
+
 <h3>Veja Mais</h3>
 <p>
     <i><u>Linkedin</u>: </i>
