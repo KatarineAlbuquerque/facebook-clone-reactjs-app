@@ -3,6 +3,11 @@
 <h1>Facebook Clone</h1>
 <h2>React Js</h2>
 
+<h4>
+    Link do Projeto: 
+    <a href="https://katarinealbuquerque.github.io/facebook-clone-reactjs-site/">Abrir Facebook Clone</a>
+</h4>
+
 <h2>I. Sobre</h2>
 
 <p>Front-end em React Js com uso de componetes reutilizáveis e layout flexível. O projeto está organizado em pastas para facilitar a manutenção do site.</p>
