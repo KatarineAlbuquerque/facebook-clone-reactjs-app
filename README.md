@@ -19,7 +19,7 @@
 <h2>IV. Autor</h2>
 <h4>Katarine Albuquerque</h4>
 
-<h2>V. Veja Mais</h2>
+<h2>Veja Mais</h2>
 <p>
     <i><u>Linkedin</u>: </i>
     <a href="https://www.linkedin.com/in/katarine-albuquerque/">/ katarine-albuquerque</a>
